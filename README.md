@@ -96,11 +96,11 @@ This script looks for a folder named like today’s date (e.g. `2025-05-06`), zi
 
 ```bash
 python partial_backup.py
+```
 
 ### Weekly General Backup
 
 This script zips the full general directory, uploads it, and sends a report. It should be run weekly.
-```
 
 ```bash
 python general_backup.py

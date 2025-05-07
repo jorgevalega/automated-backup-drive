@@ -1,0 +1,3 @@
+pyminizip
+pydrive
+python-dotenv
